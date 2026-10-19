@@ -25,8 +25,6 @@ A team data analysis of country-level health expenditure from 2000 to 2023, brok
 | Population | Bubble sizes in plots |
 | Income group classification | Low / lower-middle / upper-middle / high income grouping |
 
-> TODO: add the exact source names, links, download dates, and the year range each file covers.
-
 ## Key findings
 
 **Who pays**
@@ -52,25 +50,7 @@ A team data analysis of country-level health expenditure from 2000 to 2023, brok
 - **Not-classified countries** (no income group) are noisy and are mostly left out of the comparisons.
 - Quadratic fits are descriptive. In the prevention model the log-spending term alone was not significant (p = 0.49); the curvature term drives the fit.
 
-## Repo structure
-
-> TODO: fill in once files are organized, for example:
-
-```
-.
-├── data/          # raw and merged datasets
-├── notebooks/     # analysis and plotting
-├── figures/       # exported charts
-├── slides/        # final presentation (PDF)
-└── README.md
-```
-
-## How to run
-
-> TODO: add environment and run instructions (Python version, key packages such as pandas, matplotlib/seaborn, statsmodels, and the order to run notebooks).
-
 ## Contributors
 
 Rena, Coco, Ibrahim, Matthew, Yihan
 
-> TODO (optional): add a line on what each person worked on.

@@ -50,6 +50,10 @@ A team data analysis of country-level health expenditure from 2000 to 2023, brok
 - **Not-classified countries** (no income group) are noisy and are mostly left out of the comparisons.
 - Quadratic fits are descriptive. In the prevention model the log-spending term alone was not significant (p = 0.49); the curvature term drives the fit.
 
+## My Contributions:
+
+Created visualizations and explored data about finance scheming and spending.
+
 ## Contributors
 
 Rena, Coco, Ibrahim, Matthew, Yihan
